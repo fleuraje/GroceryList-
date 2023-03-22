@@ -1,0 +1,30 @@
+h1 {
+    color:brown
+}
+
+h3 {
+    color:brown
+}
+
+header{
+    font-size: 36px;
+    color:brown;
+    
+    display: flex ;
+    justify-content: center;
+    
+  
+}
+
+li {
+color: indigo;
+
+}
+
+image{
+
+
+ height: 20px;
+
+
+}
